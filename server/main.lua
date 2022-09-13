@@ -71,5 +71,5 @@ elseif GetResourceState('qb-core') == 'started' then
         end
     end, 'admin')
 else
-    print('^2[Playsec Dimensions]^4 No framework found, please. Use QB-Core or ESX, if you are already doing this start it under frameworks.^0')
+    print('^2[5Point Development]^4 No framework found, please. Use QB-Core or ESX, if you are already doing this start it under frameworks.^0')
 end
