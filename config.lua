@@ -33,6 +33,23 @@ Locales = {
         ['get_dimension_player'] = 'Player',
         ['get_dimension_notification'] = 'The dimension of %s is %s',
         ['get_dimension_error_notplayerid'] = 'You must enter a valid PlayerId',
+    },
+    
+    ['de'] = { --German
+        ['set_dimension_help'] = 'Setzt die Dimension von Einen Spieler',
+        ['set_dimension_player'] = 'Spieler',
+        ['set_dimension_bucket'] = 'Dimension',
+        ['set_dimension_notification'] = 'Du hast die Dimension von %s zu %s Geändert',
+        ['set_dimension_error_notdimension'] = 'Du must eine Richtige Dimension Eingeben',
+        ['set_dimension_error_notplayerid'] = 'Spieler nich gefunden',
+
+        -- Getters
+
+        ['get_dimension_help'] = 'Finde die Dimension von Eine Spieler',
+        ['get_dimension_player'] = 'Spieler',
+        ['get_dimension_notification'] = 'Die dimension von %s ist: %s',
+        ['get_dimension_error_notplayerid'] = 'Spieler nich Gefunden',
+        -- Done by Partyleon
     }
 }
 
